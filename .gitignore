@@ -1,0 +1,6 @@
+/tv
+/epg
+/__pycache__/
+server.py
+logos.json
+url.txt
